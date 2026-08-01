@@ -1,0 +1,93 @@
+# Development Document
+
+## Project
+
+- Project name: XV
+- Course and assignment: CS120-20 Week 10
+- Developer or team: Gage Hernandez
+- Date started: 7/30/26
+- Technology or language: .NET
+## Brief
+Build a game
+### Goal
+Complete application for passing grades.
+Write one sentence that explains what you are preparing or building.
+Write one sentence that explains what you are preparing or building.
+An application that is a simple game, with some RPG mechanics.
+### User or player
+Who will use or play this project? What should they be able to understand and do?
+Anyone who has free time can play this game. They should understand basic commands on a key board such as directional keys for character movement in game.
+### Required deliverables
+- [ ] Add each assignment requirement here.
+Context and Game Study, Prepared Environment, Development Doc, Adaptation Decisions, Prepared Assets, Readiness Review and Discord Proof.
+- [ ] Mark starred or critical items.
+Git History, Root README Map, Complete Repository, Accessible Git Link
+- [ ] Record the submission destination.
+Github
+## Story or context
+Explain the world, situation, or real problem that gives the project meaning. You may create a new backstory or adapt one from earlier work when the assignment permits it.
+It will be a simple game that will probably share some similarities to either old school Zelda or Mario, both of which I have played and like very much. The back story is you are a knight explorer trying to make it to the castle while vanquishing enemies and dodging obstacles.
+## Product definition
+World explorer desktop game
+Describe the smallest complete version you expect to build and test.
+I expect to be able to create a 2D character resembling a knight that move through his environment to reach an end point or goal. There should be obstacles in his environment like enemies or changing terrain to make the pathway to the end point difficult. I would like to add the capability of the player name their own character.
+## Reference study and adaptation
+
+| What I noticed | Keep, change, or replace? | Why? | Update needed in my plan |
+|---|---|---|---|
+| Example: The tutorial begins with a title screen | Keep | The player needs a clear entry point | Add title screen to the screen map |
+
+## Systems and screens
+
+| System or screen | Input | Action | Output |
+Main menu, start button, opens game, game allows player to name character, character appears in terrain, arrow keys direct the character on how to move, terrain changes as player moves character, character finds path through terrain to end point, endpoint presents a title congratulating player for completion of game, player is given option to close game or reset game from beginning.
+| Example: Main menu | Start button | Opens the game | Game screen appears |
+
+## Information containers
+
+| Variable, property, list, or table | Data type | Purpose | Example value |
+playerHealth, Interger, Stores health, 100
+directionalKeys, command, character direction, up down right left
+mainMenu, string, gives player options to choose from, start exit
+nameMenu, string, allows player to name character, Name: 
+endMenu, string, alerts player the completion of game, Congrats Brave Knight
+| Example: playerHealth | Integer | Stores current health | 100 |
+
+## Actions
+
+| Function, procedure, method, or event | Purpose | Input | Result |
+calculateHealth, calculates how much damage the character has sustained, health points, health
+progressionStatus, calculates the progress of level, presents player with level of level completion, 100%
+| Example: CalculateDamage | Calculates attack damage | Attack power | Damage amount |
+
+## Environment
+
+- Required editor: Visual Studio
+- Required workload or SDK: .NET
+- Project template: VB.NET
+- Required packages or libraries: JSON, VB.NET, Github
+- Operating system or device: Visual Studios
+- Proof that setup works:
+
+## Assets
+
+Link to the Asset Manifest and list the assets needed for the first working version.
+
+## Milestones
+
+| Milestone | Definition of done | Target date | Status |
+Project Planning, plan all documents, 8/3/26, WIP
+Game development, work on coding, 8/10/26, WIP
+| Project setup | Empty project runs and is committed | | |
+
+## Questions and decisions
+
+| Date | Question or problem | Source used | Decision or answer | Next action |
+|---|---|---|---|---|
+
+## Risks
+
+List anything that could block the project, including missing tools, unclear requirements, asset permissions, difficult features, or time limits.
+Artistic assets to make the game look better
+More complexity in preforming VB.NET code to make the game better.
+I would like to add more levels if I had more time but will not due to time limits.
