@@ -2,18 +2,17 @@
 
 ## Project
 
-- Project name: XV
+- Project name: UV
 - Course and assignment: CS120-20 Week 10
 - Developer or team: Gage Hernandez
 - Date started: 7/30/26
-- Technology or language: .NET
+- Technology or language: VB.NET
 ## Brief
 Build a game
 ### Goal
-Complete application for passing grades.
+Create a game with working code and that is visually pleasing for passing grades.
 Write one sentence that explains what you are preparing or building.
-Write one sentence that explains what you are preparing or building.
-An application that is a simple game, with some RPG mechanics.
+A game application has some simple explorative RPG mechanics. 
 ### User or player
 Who will use or play this project? What should they be able to understand and do?
 Anyone who has free time can play this game. They should understand basic commands on a key board such as directional keys for character movement in game.
@@ -26,7 +25,7 @@ Git History, Root README Map, Complete Repository, Accessible Git Link
 Github
 ## Story or context
 Explain the world, situation, or real problem that gives the project meaning. You may create a new backstory or adapt one from earlier work when the assignment permits it.
-It will be a simple game that will probably share some similarities to either old school Zelda or Mario, both of which I have played and like very much. The back story is you are a knight explorer trying to make it to the castle while vanquishing enemies and dodging obstacles.
+It will be a simple game that will probably share some similarities to both old-school Zelda and Mario, both of which I have played and like very much. The backstory is you are a knight explorer trying to make it to the castle while vanquishing enemies and dodging obstacles.
 ## Product definition
 World explorer desktop game
 Describe the smallest complete version you expect to build and test.
@@ -67,11 +66,15 @@ progressionStatus, calculates the progress of level, presents player with level 
 - Project template: VB.NET
 - Required packages or libraries: JSON, VB.NET, Github
 - Operating system or device: Visual Studios
-- Proof that setup works:
+- Proof that setup works: No errors
 
 ## Assets
 
 Link to the Asset Manifest and list the assets needed for the first working version.
+https://github.com/badtechnics/CS120-20-Week-10/tree/main/Assets
+Cloud Background
+Foreground2
+User
 
 ## Milestones
 
@@ -83,7 +86,7 @@ Game development, work on coding, 8/10/26, WIP
 ## Questions and decisions
 
 | Date | Question or problem | Source used | Decision or answer | Next action |
-|---|---|---|---|---|
+|8/3/26|How will the enviroment be setup? |Assets| WIP |Try different configurations to make the best use of assets at my disposale|
 
 ## Risks
 
