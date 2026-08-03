@@ -4,15 +4,15 @@ Use this document when an assignment asks you to study an existing application, 
 
 ## Reference
 
-- Title:
-- Link:
-- Date reviewed:
-- Why this reference was assigned:
+- Title: Make Retro Game Using VB.NET
+- Link: https://www.youtube.com/playlist?list=PLsvXBxgtEE5nGvERTEVgupe4jaiwiw-bm
+- Date reviewed: 8/1/26
+- Why this reference was assigned: Tutorial
 
 ## What I noticed
 
 | Area | Observation | Why it matters |
-|---|---|---|
+|Start application| Starting the WPF .NET application |It gives us a starting point to begin our project|
 | Screen or interface | | |
 | User or player action | | |
 | Data or state | | |
@@ -22,15 +22,16 @@ Use this document when an assignment asks you to study an existing application, 
 ## Keep, change, or replace
 
 | Element from the reference | Decision | Reason | Update to my Development Document |
-|---|---|---|---|
+|Apllication Background|Keep|I need some where to start|Make an enviroment that fit my RPG|
 | | Keep / Change / Replace | | |
 
 ## Questions to investigate
 
-1. 
-2. 
-3. 
+1. How will I alter the application show in the tutorial into my own world
+2. What code will I need to run my game properly
+3. Is it possible to create my proposed game in the given time constrants 
 
 ## My revised direction
 
 In one short paragraph, explain how the study changed or confirmed your project plan.
+I believe I will need to look into several different coding tutorials on Youtube to complete my application. I dont want to make my game too complex that I will not be able to complete it so sticking a road map I layed out for the game will be important. I would like to be excited for what I am able to code but should not lose track of the time constrants and the over all objective of turning in a working application for a passing grade.
