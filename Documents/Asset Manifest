@@ -3,7 +3,9 @@
 Use one row for every image, icon, sound, font, video, dataset, library, or other asset prepared for the project.
 
 | Final filename | Status | Asset type | Source or creator | Source link | License or permission | Changes made | Planned use |
-|---|---|---|---|---|---|---|---|
+|User|Ready|Image|graphixmania|https://as1.ftcdn.net/v2/jpg/05/36/25/70/1000_F_536257071_bVoKuQTOep6issGUR6IJ4hICyhZLiX3b.webp|License|None|User|
+|Foreground|Ready|Image|bluebeat76|https://as2.ftcdn.net/v2/jpg/02/94/96/63/1000_F_294966386_gV5A9Mt0zpbeZIZNPvIvjrLpRzYgaCV7.jpg|License|None|Foreground|
+|Cloud Background|Ready|Image|yotrakbutda|https://as1.ftcdn.net/v2/jpg/03/20/36/36/1000_F_320363623_bLioLpIHZMx1Nw6MRoDZ1zN1YclIikbA.jpg|License|None|Background|
 | example-room.png | Ready | Image | Your name | Original work | Original work | Cropped to 800 x 500 | Main game room |
 
 ## Status choices
