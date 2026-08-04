@@ -5,7 +5,7 @@ CS120-20 Week 10 Porject
 - Course:CS-120-20
 - Assignment: Week 10
 - Developer or team: Gage Hernandez
-- Submitted repository:
+- Submitted repository: https://github.com/badtechnics/CS120-20-Week-10
 
 ## Project summary
 
@@ -44,11 +44,10 @@ Characters Directional input
 ## Repository map
 
 | Folder or file | Purpose |
-|---|---|
-| `src/` | Source project |
-| `assets/` | Project images, audio, data, or other media |
-| `docs/` | Development document, asset manifest, and test log |
-| `evidence/` | Screenshots, required posts, and demo proof |
+| `src/` | [Source project](https://github.com/badtechnics/CS120-20-Week-10/tree/main/src) |
+| `assets/` | [Project images, audio, data, or other media](https://github.com/badtechnics/CS120-20-Week-10/tree/main/Assets) |
+| `docs/` | [Development document, asset manifest, and test log ](https://github.com/badtechnics/CS120-20-Week-10/tree/main/Documents)|
+| `evidence/` | [Screenshots, required posts, and demo proof](https://github.com/badtechnics/CS120-20-Week-10/tree/main/Evidence) |
 
 ## Git checkpoints
 
@@ -63,6 +62,7 @@ List any problem that remains and explain how it affects the project.
 ## Asset credits
 
 Link to `docs/ASSET_MANIFEST.md`.
+https://github.com/badtechnics/CS120-20-Week-10/blob/main/Documents/Asset%20Manifest
 
 ## Submission access check
 
