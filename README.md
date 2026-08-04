@@ -1,6 +1,6 @@
 # Ultra Violet
 
-CS120-20 Week 10 Porject
+CS120-20 Week 10 Project
 
 - Course: CS-120-20
 - Assignment: Week 10
