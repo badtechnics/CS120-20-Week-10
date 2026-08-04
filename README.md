@@ -2,7 +2,7 @@
 
 CS120-20 Week 10 Porject
 
-- Course:CS-120-20
+- Course: CS-120-20
 - Assignment: Week 10
 - Developer or team: Gage Hernandez
 - Submitted repository: https://github.com/badtechnics/CS120-20-Week-10
