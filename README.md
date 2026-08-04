@@ -28,7 +28,6 @@ Characters Directional input
 
 ## Graded requirements map
 
-| Requirement | Location in this repository | Evidence |
 <img width="1912" height="327" alt="image" src="https://github.com/user-attachments/assets/65435710-5654-4083-ad3f-c348240423f0" />
 <img width="1912" height="327" alt="image" src="https://github.com/user-attachments/assets/80eee7a6-cbe8-41c9-93b6-84a68597444b" />
 <img width="1912" height="327" alt="image" src="https://github.com/user-attachments/assets/c7cefba8-012e-411f-92de-d8c411f9a27c" />
