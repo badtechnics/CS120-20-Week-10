@@ -39,11 +39,9 @@ Characters Directional input
 <img width="1912" height="327" alt="image" src="https://github.com/user-attachments/assets/cecc85b8-b296-4017-8340-af6fd7f3cb70" />
 <img width="1912" height="327" alt="image" src="https://github.com/user-attachments/assets/5dbfdf34-17bc-47d7-9809-864b9b70cd7e" />
 <img width="1912" height="326" alt="image" src="https://github.com/user-attachments/assets/8e06a097-d880-4662-baf1-551c2d4c4310" />
-| Requirement 1 | `docs/example.md` | `evidence/requirement-01.png` |
 
 ## Repository map
 
-| Folder or file | Purpose |
 | `src/` | [Source project](https://github.com/badtechnics/CS120-20-Week-10/tree/main/src) |
 | `assets/` | [Project images, audio, data, or other media](https://github.com/badtechnics/CS120-20-Week-10/tree/main/Assets) |
 | `docs/` | [Development document, asset manifest, and test log ](https://github.com/badtechnics/CS120-20-Week-10/tree/main/Documents)|
